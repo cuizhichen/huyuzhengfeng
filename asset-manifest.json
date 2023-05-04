@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/huyuzhengfeng/static/css/main.0f43d607.css",
+    "main.js": "/huyuzhengfeng/static/js/main.c2d4186c.js",
+    "index.html": "/huyuzhengfeng/index.html",
+    "main.0f43d607.css.map": "/huyuzhengfeng/static/css/main.0f43d607.css.map",
+    "main.c2d4186c.js.map": "/huyuzhengfeng/static/js/main.c2d4186c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f43d607.css",
+    "static/js/main.c2d4186c.js"
+  ]
+}
